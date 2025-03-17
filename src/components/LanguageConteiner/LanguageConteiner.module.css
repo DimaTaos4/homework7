@@ -1,0 +1,20 @@
+.mainConteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+}
+.mainConteiner h2{
+    font-size: 30px;
+    letter-spacing: 1.5px;
+    color: rgb(221, 79, 243);
+}
+.mainConteiner select{
+padding: 12px 20px;
+border-radius: 50px;
+background-color: rgb(166, 92, 235);
+cursor: pointer;
+font-size: 25px;
+}
